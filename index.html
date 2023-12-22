@@ -1,15 +1,76 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
-    <link rel="stylesheet" href="./static/css/index.css">
-</head>
-<body>
-    <p>Hello Like Notion App</p>
-    <p>Hello Like</p>
+    <!-- Google Fonts  -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./static/css/index.css" />
+  </head>
+  <body>
+    <nav class="nav" id="nav">
+      <div class="nav_container_breadcumb">
+        <span><i class="fas fa-arrow-circle-right"></i></span
+        ><span
+          ><i class="fas fa-book"></i><span class="main"> Main</span> / </span
+        ><span>Getting Started / </span
+        ><span>Frontend developer test ....</span>
+      </div>
+      <div class="nav_container_additional">
+        <span
+          ><i class="fas fa-lock"></i> Editing
+          <span class="colon">|</span></span
+        ><span class="publish"
+          >Publish Space <i class="fas fa-arrow-down"></i
+        ></span>
+      </div>
+    </nav>
+    <!--  -->
+    <section class="description pd-y" id="description">
+      <div class="container">
+        <div class="contentStatus">
+          <div class="contentStatus_left">
+            <span><span class="highlight">p</span><span class="colon">|</span> </span
+            ><span><i class="far fa-clock"></i> 0min |</span
+            ><span><span class="rabbit">R</span> <span class="colon">|</span> </span
+            ><span><i class="fas fa-arrows-alt-v"></i> 0</span>
+          </div>
+          <div class="contentStatus_right">
+            <span><i class="fas fa-arrow-circle-right"></i> </span>
+            <span><i class="fas fa-cloud"></i></span>
+            <span><i class="fas fa-ellipsis-v"></i></span>
+          </div>
+        </div>
+        <h2>Front-end developer test project</h2>
+        <p>
+          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Est
+          recusandae dolorem quia iusto rem obcaecati non adipisci quae enim
+          facere.
+        </p>
+      </div>
+    </section>
+    <!--  -->
+    <section class="EditingContent" id="EditingContent">
+      <div class="container">
+        <form>
+          <div class="formcontrol">
+            <input type="text" placeholder="Type / for blocks, @ to link docs or people"/>
+          </div>
+        </form>
+      </div>
+    </section>
+    <!-- Font Awesome Icons -->
+    <script
+      src="https://kit.fontawesome.com/7280065e63.js"
+      crossorigin="anonymous"
+    ></script>
 
     <script src="./static/js/index.js"></script>
-</body>
+  </body>
 </html>
