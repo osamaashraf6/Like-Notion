@@ -47,10 +47,10 @@
 ### Key Features <a name="key-features"></a>
 
 
-- [x] Set up the project using Linter🪄
-- [x] Follow the GitHub and GitFlow.👌
-- [x] Use the linter for clean code and follwing the best practice.💯
-- [x] Write the README in a professional way.⤵️
+- [x] Add the structure of the design🪄
+- [x] Follow the Figma design.👌
+- [x] Use the CSS for styling the design.💯
+
 
 
 
@@ -124,9 +124,9 @@ To run the project, execute the following command:
 
 
 
-- [x] Add the Structure of the app.⤵️
-- [x] Add the Style of the app.😃
-- [x] Follow the best practice in the code.⤵👌💯
+- [x] Add the functionality of the app using vanilla js.⤵️
+- [x] Refactor the code for applying clean code.😃
+- [x] Deploy the app to let the users access/test it.⤵👌💯
 
 
 
