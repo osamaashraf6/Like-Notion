@@ -1,3 +1,132 @@
-p {
-  color: #e7e7ee;
+/* Start index styles */
+
+/*
+1. Index styles.
+2. Universal styles.
+3. Common styles.
+4. Content styles.
+*/
+
+/* End index styles */
+
+/* Start Universal styles */
+*,
+*::after,
+*::before {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
 }
+
+body {
+  font-family: "Poppins", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 1.428;
+  color: #c8c8c8;
+}
+
+/* End Universal styles */
+
+/* Start common styles */
+a {
+  text-decoration: none;
+}
+
+.pd-y {
+  padding: 22px 0 35px 0;
+}
+
+.container {
+  width: 44%;
+  margin: 0 auto;
+}
+
+/* End common styles */
+
+/* Start content styles */
+nav {
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.fa-arrow-circle-right {
+  margin-right: 18px;
+  cursor: pointer;
+}
+
+.main {
+  text-decoration: underline;
+  margin: 7px;
+}
+
+.colon {
+  margin: 10px;
+}
+
+.fa {
+  margin: 4px;
+}
+
+.publish {
+  color: #3c83f0;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.contentStatus {
+  padding: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 5px;
+  border: 1px solid;
+  margin-bottom: 20px;
+}
+
+.highlight {
+  background-color: #95e3a4;
+  display: inline-block;
+  padding: 2px 6px 4px 8px;
+  border-radius: 5px;
+  color: #655f5f;
+  margin-right: 5px;
+}
+
+h2 {
+  color: #000;
+  font-size: 31px;
+  font-weight: 600;
+  padding: 3px;
+  margin-bottom: 17px;
+  border-bottom: 1px solid #c8c8c8;
+}
+
+.rabbit {
+  display: inline-block;
+  background-color: #ee797a;
+  border-radius: 50%;
+  margin-left: 5px;
+  width: 19px;
+  height: 20px;
+  text-align: center;
+}
+
+p {
+  color: #000;
+  width: 101%;
+}
+
+input {
+  border: 0;
+  outline: 0;
+  padding: 15px 0;
+  width: 57%;
+}
+
+input::placeholder {
+  color: #c8c8c8;
+}
+
+/* End content styles */
