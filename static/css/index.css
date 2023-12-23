@@ -1,14 +1,3 @@
-/* Start index styles */
-
-/*
-1. Index styles.
-2. Universal styles.
-3. Common styles.
-4. Content styles.
-*/
-
-/* End index styles */
-
 /* Start Universal styles */
 *,
 *::after,
@@ -136,6 +125,9 @@ nav {
 /* End description section styles */
 
 /* Start EditingContent section styles */
+#textDemo {
+  color: #000;
+}
 
 form {
   position: relative;

@@ -9,7 +9,7 @@ import {
   secondPlaceholder,
 } from './uiElements.js';
 // End Importing the UI Elemnts.
-const eee = () => {
+const headingTextFunctionality = () => {
 // Start the adding style to the heading input.
   const addingStyleToHeadingInpt = () => {
     if (input.placeholder === firstPlaceholder) {
@@ -56,4 +56,4 @@ const eee = () => {
   });
 // End the format of heading text.
 };
-export default eee;
+export default headingTextFunctionality;
