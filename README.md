@@ -47,9 +47,7 @@
 ### Key Features <a name="key-features"></a>
 
 
-- [x] Follow best practice to enhance the code.⤵️
-- [x] Refactor the code for applying clean code.😃
-- [x] Separate the code into modules folder for js ⤵👌💯
+- [x] Deploy the App using GitHub Pages to let the users access it💯😊
 - [x] Apply ES6 Script for best best practice ⤵👌💯
 - [x] Follow HTML, CSS and Js best practice😊
 
@@ -125,7 +123,7 @@ To run the project, execute the following command:
 
 - [x] Test the app using jest.⤵️
 - [x] Use the webpack bundler to setup the project.😃
-- [x] Deploy the app to let the users access/test it.⤵👌💯
+
 
 
 
