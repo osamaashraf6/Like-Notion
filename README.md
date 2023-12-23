@@ -48,6 +48,7 @@
 
 
 - [x] Add the structure of the design🪄
+- [x] Add the functionalityof the Like Notion App 😊
 - [x] Follow the Figma design.👌
 - [x] Use the CSS for styling the design.💯
 
@@ -124,7 +125,7 @@ To run the project, execute the following command:
 
 
 
-- [x] Add the functionality of the app using vanilla js.⤵️
+- [x] Follow best practice to enhance the code.⤵️
 - [x] Refactor the code for applying clean code.😃
 - [x] Deploy the app to let the users access/test it.⤵👌💯
 
