@@ -36,9 +36,12 @@
       <div class="container">
         <div class="contentStatus">
           <div class="contentStatus_left">
-            <span><span class="highlight">p</span><span class="colon">|</span> </span
+            <span
+              ><span class="highlight">p</span
+              ><span class="colon">|</span> </span
             ><span><i class="far fa-clock"></i> 0min |</span
-            ><span><span class="rabbit">R</span> <span class="colon">|</span> </span
+            ><span
+              ><span class="rabbit">R</span> <span class="colon">|</span> </span
             ><span><i class="fas fa-arrows-alt-v"></i> 0</span>
           </div>
           <div class="contentStatus_right">
@@ -58,9 +61,37 @@
     <!--  -->
     <section class="EditingContent" id="EditingContent">
       <div class="container">
+        <div id="headingDemo"></div>
+        <div id="textDemo"></div>
+        <span class="toggle"><i class="fas fa-bars"></i></span>
         <form>
           <div class="formcontrol">
-            <input type="text" placeholder="Type / for blocks, @ to link docs or people"/>
+            <input
+              type="text"
+              id="text"
+              placeholder="Type / for blocks, @ to link docs or people"
+            />
+          </div>
+          <div class="optionsPanel">
+            <h3>Add blocks</h3>
+            <p class="hint">Keep typing to filter or escape to exit</p>
+            <span class="keywords">Filtering keywords <span class="mark1">1</span></span>
+            <ul class="list">
+              <li class="headingOption">
+                <div class="headingOption_left">T</div>
+                <div class="headingOption_right">
+                  <span class="heading1">Heading 1</span
+                  ><span class="shortcut">Shortcut</span>
+                </div>
+              </li>
+              <li class="headingOption">
+                <div class="headingOption_left">T</div>
+                <div class="headingOption_right">
+                  <span class="heading1">Expendable Heading</span
+                  ><span class="shortcut">Shortcut</span>
+                </div>
+              </li>
+            </ul>
           </div>
         </form>
       </div>
@@ -71,6 +102,6 @@
       crossorigin="anonymous"
     ></script>
 
-    <script src="./static/js/index.js"></script>
+    <script type="module" src="./static/js/index.js"></script>
   </body>
 </html>
