@@ -136,6 +136,9 @@ nav {
 /* End description section styles */
 
 /* Start EditingContent section styles */
+#textDemo {
+  color: #000;
+}
 
 form {
   position: relative;
