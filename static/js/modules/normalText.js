@@ -7,7 +7,7 @@ import {
 } from './uiElements.js';
 // End Importing the UI Elemnts.
 
-const aaa = () => {
+const normalTextFunctionality = () => {
   // Start the UI of the normal text format.
   const normalTextUI = () => {
     if (input.value.substring(0, 3) === '/+1') {
@@ -38,4 +38,4 @@ const aaa = () => {
   input.addEventListener('keypress', normalTextFormat);
 // End the format of normal text.
 };
-export default aaa;
+export default normalTextFunctionality;

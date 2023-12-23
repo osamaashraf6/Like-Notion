@@ -7,11 +7,11 @@ import {
   arrOfNormalText,
 } from './modules/uiElements.js';
 // End Importing the UI Elemnts.
-import eee from './modules/headingText.js';
-import aaa from './modules/normalText.js';
+import headingTextFunctionality from './modules/headingText.js';
+import normalTextFunctionality from './modules/normalText.js';
 
-eee();
-aaa();
+headingTextFunctionality();
+normalTextFunctionality();
 // Start the Toggle options panel depending on the status of the content.
 const showOptionsPanel = (inputValue) => {
   if (inputValue.substring(0, 2) === '/1') {
