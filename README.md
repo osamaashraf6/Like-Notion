@@ -29,6 +29,12 @@
 - Like_Notion App! This open-source project, built with HTML, CSS, and JavaScript, offers a sleek and customizable user interface inspired by Notion. Its modular structure, responsive design, and customization options make it an ideal productivity tool. Features include intuitive task management, rich text editing, and collaborative capabilities. 👌💯
 
 
+| Screenshot for the demo| 
+| --- |
+|![image](https://github.com/osamaashraf6/Like-Notion/assets/83360636/023b1690-273f-43c3-8438-430d72e691c5) |
+
+
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -49,13 +55,16 @@
 
 - [x] Deploy the App using GitHub Pages to let the users access it💯😊
 - [x] Apply ES6 Script for best best practice ⤵👌💯
-- [x] Follow HTML, CSS and Js best practice😊
+- [x] Follow HTML, CSS, and JS best practices 😊
 
 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### 🚀 Live Demo
+- Click [Here](https://osamaashraf6.github.io/Like-Notion/) ⤵️😊 to see the live demo of the App Like_Notion😃💯
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 ## 💻 Getting Started <a name="getting-started"></a>
 
 
