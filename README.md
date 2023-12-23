@@ -47,17 +47,22 @@
 ### Key Features <a name="key-features"></a>
 
 
-- [x] Follow best practice to enhance the code.⤵️
+- [x] Follow best practices to enhance the code.⤵️
 - [x] Refactor the code for applying clean code.😃
 - [x] Separate the code into modules folder for js ⤵👌💯
 - [x] Apply ES6 Script for best best practice ⤵👌💯
-- [x] Follow HTML, CSS and Js best practice😊
+- [x] Follow HTML, CSS, and JS best practices 😊
 
 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### 🚀 Live Demo
+- Click Here ⤵️😊 to see the live demo of the App Like_Notion😃💯
+- This is the loom video for the presentation of the project, click here ⤵️ to see the presentation😃👌💯
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 ## 💻 Getting Started <a name="getting-started"></a>
 
 
