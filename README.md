@@ -47,13 +47,11 @@
 ### Key Features <a name="key-features"></a>
 
 
-- [x] Add the structure of the design🪄
-- [x] Add the functionalityof the Like Notion App 😊
-- [x] Follow the Figma design.👌
-- [x] Use the CSS for styling the design.💯
-
-
-
+- [x] Follow best practice to enhance the code.⤵️
+- [x] Refactor the code for applying clean code.😃
+- [x] Separate the code into modules folder for js ⤵👌💯
+- [x] Apply ES6 Script for best best practice ⤵👌💯
+- [x] Follow HTML, CSS and Js best practice😊
 
 
 
@@ -125,8 +123,8 @@ To run the project, execute the following command:
 
 
 
-- [x] Follow best practice to enhance the code.⤵️
-- [x] Refactor the code for applying clean code.😃
+- [x] Test the app using jest.⤵️
+- [x] Use the webpack bundler to setup the project.😃
 - [x] Deploy the app to let the users access/test it.⤵👌💯
 
 
